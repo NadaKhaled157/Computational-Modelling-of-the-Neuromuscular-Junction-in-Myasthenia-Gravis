@@ -8,10 +8,10 @@
 ![Screenshot 2023-12-14 061116](https://github.com/NadaKhaled157/Computational-Modelling-of-the-Neuromuscular-Junction-in-Myasthenia-Gravis/assets/124778473/a4d20d3e-9bff-456f-a163-ccf333531499)
 
 ## Team Members
-- Enjy Ashraf
-- Kirellos Safwat
+- Enjy Ashraf (@enjyashraf18)
+- Kirellos Safwat (@kirellossafwat763)
 - Mina Raafat (@minaraafat21)
-- Mina Wagdy
+- Mina Wagdy (@MinaWagdy5)
 - Nada Khaled (@nadakhaled157)
-- Shahd Ahmed Ragab
+- Shahd Ahmed Ragab (@shahdragab89)
 - Yasmine Mahmoud (@yasmine-msg79)
