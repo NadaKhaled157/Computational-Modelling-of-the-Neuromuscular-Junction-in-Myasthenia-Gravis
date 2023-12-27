@@ -13,8 +13,7 @@ for i = 1:size(set, 2)
 end
 
 % Define global sink term due to cleavage in the cleft for different conditions
-a1 = '0';
-a2 = '5';
+a1 = '5';
 c = '10';
 
 % Define parameters specific to myasthenia gravis (MG)
@@ -23,7 +22,6 @@ mg_c = '25'; % Adjust this value based on the impact of MG on the sink term 'c'
 
 % Solve PDE for normal condition and Sarin gas condition
 u1 = parabolic(u0, tlist, b, p, e, t, c, a1, f, d);
-u2 = parabolic(u0, tlist, b, p, e, t, c, a2, f, d);
 
 % Solve PDE for MG condition
 u_mg = parabolic(u0, tlist, b, p, e, t, mg_c, mg_a, f, d);
